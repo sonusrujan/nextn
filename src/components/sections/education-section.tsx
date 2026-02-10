@@ -15,7 +15,7 @@ const EducationSection = () => {
             <Card>
               <CardHeader>
                 <div className="flex justify-center mb-4">
-                  <Image src="/portfolio/vit.webp" alt="VIT Logo" width={120} height={40} className="object-contain" />
+                  <Image src="/portfolio/vit.webp" alt="VIT Logo" width={240} height={80} className="object-contain" />
                 </div>
                 <CardTitle className="text-xl font-headline">Bachelor of Technology in Computer Science</CardTitle>
                 <CardDescription>Vellore Institute Of Technology, Chennai | Aug 2021 – Jul 2025</CardDescription>
