@@ -6,7 +6,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Narra Srujan | Apex Portfolio",
+  title: "Narra Srujan |  Portfolio",
   description: "A personal portfolio for Narra Srujan, showcasing projects, skills, and experience.",
 };
 
